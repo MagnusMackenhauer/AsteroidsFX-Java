@@ -127,5 +127,7 @@
   </profiles>
   <modules>
     <module>Core</module>
+    <module>Player</module>
+    <module>Common</module>
   </modules>
 </project>
